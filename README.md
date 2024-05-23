@@ -26,4 +26,3 @@ The iRAP WebEngine package for ROS 1 enables you to open your web server using F
     roslaunch irap_webengine irap_webengine.launch
     ```
 
-Feel free to explore and contribute to this repository. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. Thank you for using iRAP WebEngine!
